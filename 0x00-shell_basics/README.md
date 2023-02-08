@@ -1,1 +1,1 @@
-script that displays current directory contents in long format
+display current directory contents incl hidden files
