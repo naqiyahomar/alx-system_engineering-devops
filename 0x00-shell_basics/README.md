@@ -1,1 +1,1 @@
-Directory contains script that will list current directory
+script that changes the working directory to users home directory
