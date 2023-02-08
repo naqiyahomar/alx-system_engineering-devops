@@ -1,1 +1,1 @@
-script that changes the working directory to users home directory
+script that displays current directory contents in long format
