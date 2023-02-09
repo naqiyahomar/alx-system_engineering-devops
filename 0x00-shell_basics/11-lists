@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a; ls -a /alx-system_engineering-devops /boot/
+echo ls -a /n ls -a /alx-system_engineering-devops /boot/
