@@ -1,1 +1,1 @@
-changes working directory to previous one
+list all files in all directories
