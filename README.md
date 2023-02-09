@@ -1,1 +1,1 @@
-8. bye bye betty
+9. bye ye first directory
