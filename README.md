@@ -1,1 +1,1 @@
-7. betty in my first directory
+8. bye bye betty
